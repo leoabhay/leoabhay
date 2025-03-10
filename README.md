@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Chaudhary</h1>
 <h3 align="center">An IT Engineering student and passionate Backend developer from Kathmandu, Nepal</h3>
 
-- 🔭 I’m currently working on [admin panel](https://github.com/leoabhay/admin-panel---meaningby)
-
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leoabhay](https://github.com/leoabhay)
