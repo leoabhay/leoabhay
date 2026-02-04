@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Er. Abhay Chaudhary</h1>
+<h3 align="center">An IT Engineer and passionate Fullstack developer from Kathmandu, Nepal</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning **SQL and AI/ML**<br><br>🤝 I’m looking for help with [Eye-Wear](https://github.com/leoabhay/Eye-Wear)<br><br>👨‍💻 All of my projects are available at [https://github.com/leoabhay](https://github.com/leoabhay)<br><br>💬 Ask me about **Nodejs**<br><br>📫 How to reach me **abhaycdry10@gmail.com**<br><br>📄 Know about my experiences [https://abhaychaudhary.com.np/](https://abhaychaudhary.com.np/)<br><br>⚡ Fun fact **I am a good football player**
 
